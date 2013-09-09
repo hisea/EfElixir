@@ -44,5 +44,4 @@ defmodule Powers do
     raise(x, n - 1, x * accumulator)
   end
 
-
 end
